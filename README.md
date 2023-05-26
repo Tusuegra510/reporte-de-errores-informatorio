@@ -11,7 +11,7 @@
 
 Ejemplo de reporte de errores:
 
- **|   |   |
+|   |   |
 |---|---|
 |Título|Homepage Versa - Página en blanco|
 |Descripción|Cuando ingresas haciendo clic o a través del endpoint a la página del vehículo Versa, queda totalmente en blanco.|
