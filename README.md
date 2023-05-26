@@ -19,6 +19,10 @@ Ejemplo de reporte de errores:
 | Resultado esperado | La página debe mostrar detalles, datos y fotos sobre el vehículo Nissan Versa.                                                                                                                                |
 | Resultado obtenido | Página totalmente en blanco.                                                                                                                                                                                  |
 
+### Ejemplo Sentra (funciona)
+
 ![Imagen de la página del Sentra](https://github.com/Tusuegra510/reporte-de-errores-informatorio/blob/main/img/sentra.png)
+
+### Ejemplo Versa (falla)
 
 ![Imagen de la página del Sentra](https://github.com/Tusuegra510/reporte-de-errores-informatorio/blob/main/img/versa.png)
