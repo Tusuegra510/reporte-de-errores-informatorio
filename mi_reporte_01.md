@@ -88,5 +88,5 @@ _______________________
 
 ## Fin de los reportes
 
-Tiempo usado: 30hs navegando.
+Tiempo usado: 30minutos navegando.
 
