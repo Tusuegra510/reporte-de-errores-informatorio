@@ -1,10 +1,10 @@
 
-
-# Clase: Testing - Informatorio
-# Profesor: Sebastian
-# Alumno: Reichert Leonardo 
-# Tema: Reporte de errores
-
+# Reporte de errores
+* Clase: Testing - Informatorio
+* Profesor: Sebastian
+* Alumno: Reichert Leonardo 
+* Tema: Reporte de errores
+------------------------
 
 
 
