@@ -1,0 +1,5 @@
+Nombre completo
+dni
+Cuil
+
+blog
