@@ -1,0 +1,23 @@
+Actividad de clase 
+fecha: 06/11/2023
+
+Consigna:
+
+*Utilizando la pagina : https://demo.guru99.com/test/newtours/index.php
+ se debarám buscar, como minimo 7 errores.
+
+*Hacer el reporte y subirlo a Github a través de PR a
+ https://github.com/Tusuegra510/reporte-de-errores-informatorio/tree/testing
+
+Aspectos a incluir:
+
+Se deberá detallar cada error acorde a lo que se vio en clase. Incluyendo
+-CRITICIDAD
+-RESULTADO ESPERADO
+-RESULTADO OBTENIDO
+-CAPTURA DE PANTALLA DEL DEFECTO
+-PASO DE REPRODUCCCION (OPCIONAL)
+-TIPO DE ERROR
+-SISTEMA OPERATIVO
+-NAVEGADOR
+Puede agregar cualquier tipo de información extra que considere necesario.
