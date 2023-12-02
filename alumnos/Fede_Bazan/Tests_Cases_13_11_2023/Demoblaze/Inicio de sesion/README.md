@@ -18,7 +18,7 @@ fecha: 13/11/2023
     <th><h3>Historia de Usuario</h3></th>
   </tr>
   <tr>
-    <td><p><b>Como</b> usuario nuevo, <b>quiero</b> registrarme de manera efectica y segura para</p><p>crear una cuenta personal y utilizar todas las funcionalidades disponibles.</p></td>
+    <td><p><b>Como</b> usuario del e-commerce registrado de la plataforma,<b>quiero</b>  iniciar sesión de manera</p><p>segura y eficiente <b>para </b>acceder a mi cuenta personal y utilizar todas las funcionalidades disponibles.</p></td>
   </tr>
   <tr>
     <th><h3>Criterios de aceptación</h3></th>
