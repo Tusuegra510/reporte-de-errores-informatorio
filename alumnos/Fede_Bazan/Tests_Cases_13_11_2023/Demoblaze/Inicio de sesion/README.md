@@ -28,25 +28,29 @@ fecha: 13/11/2023
   </tr>
  </tr>
   <tr>
-    <td><p><b>2. </b> El sistema debe verificar que la contraseña ingresada por el usuario cumpla con los</p>
-<p>siguientes criterios: tener al menos 8 caracteres, no exceder los 20 caracteres y</p>
-<p>contener una combinación de letras, números y al menos un carácter especial.</p></td>
+    <td><p><b>2. </b> El campo “Password” debe permitir un como máximo 20 caracteres.</p></td>
   </tr>
   <tr>
-    <td><p><b>3. </b> El sistema debe verificar que el nombre de usuario sea único y no esté asociado a</p>
-<p>otra cuenta existente en la plataforma. En caso de no ser único, se mostrará un</p>
-<p>mensaje informativo que indique que el usuario ya está registrado.
+    <td><p><b>3. </b> Si el usuario ingresa credenciales correctas, debe ser redirigido a la página de inicio.</p></td>
+  </tr>
+
+  <tr>
+    <td><p><b>4. </b> Si el usuario ingresa un nombre de usuario que no está registrado en el sistema, se</p>
+<p>debe mostrar un mensaje informativo que indique que el usuario no se encuentra registrado.</p></td>
+  </tr>
+  <tr>
+    <td><p><b>5. </b> Si el usuario ingresa una contraseña incorrecta, se debe mostrar un mensaje</p>
+<p>informativo que indique que la contraseña es incorrecta.</p></td>
+  </tr>
+<tr>
+    <td><p><b>6. </b> Si el usuario intenta iniciar sesión sin ingresar el nombre de usuario o contraseña, se </p>
+<p>debe mostrar un mensaje informativo que indique que los campos son obligatorios.
 </p></td>
   </tr>
-
-  <tr>
-    <td><p><b>4. </b> Si el usuario intenta registrarse sin ingresar el nombre de usuario o la contraseña,</p>
-<p>se mostrará un mensaje informativo que indique que los campos son obligatorios.</p></td>
+<tr>
+    <td><p><b>7. </b>En caso de múltiples intentos fallidos de inicio de sesión, la cuenta debe bloquearse </p>
+<p>temporalmente y mostrar un mensaje informativo que indique este bloqueo.</p></td>
   </tr>
-  <tr>
-    <td><p><b>5. </b> Si el usuario proporciona datos válidos, el registro se completará con éxito y se le</p>
-<p>redirigirá a la página de inicio.</p></td>
-
 </table>
 <!-- ------------------------------------------------------------------------------------------------------------------- -->
 <hr>
