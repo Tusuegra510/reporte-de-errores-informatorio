@@ -6,7 +6,7 @@ fecha: 13/11/2023
 <p>Consigna:</p>
  <ul>
   <li>Seleccionar una página</li>
-  <li>Hacer 9 casos de Pruebas Negativos y postivos</li>
+  <li>Hacer casos de Pruebas Negativos y postivos</li>
  </ul>
 <hr>
 <p><b>Nota off-topic</b> : Los reportes se encuentran Automatizados con Chrome utilizando Java y Selenium en <a href="">TestDocument</a></p>
