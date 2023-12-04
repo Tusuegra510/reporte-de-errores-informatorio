@@ -1,0 +1,395 @@
+*   55ebea6 (HEAD -> elian_simons, origin/elian_simons) Merge branch 'elian_simons' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into elian_simons
+|\  
+| * 9063fb3 primer commit de mi caso de prueba
+* | af42abb Probando
+* | f039e4c (master) Mis cambios de practica
+ /  
+| * 890a129 (origin/fede_bazan) Update README.md
+| * 1b98931 up
+| * 3ca07f6 Create homework.md
+| * 5d8556b Create Nuevo documento de texto.txt
+| * ff2cc77 Creacion de carpeta de alumno
+| * 38ac789 up
+| *   30460af (origin/main, origin/integration/testing, origin/fede) Merge pull request #53 from Tusuegra510/ana-leonor-rodriguez
+| |\  
+| | * 60900ee (origin/ana-leonor-rodriguez) crear archivo documentacion test: ana leonor rodriguez
+| |/  
+| *   fe80127 Merge pull request #52 from Tusuegra510/Fernando-Ramirez
+| |\  
+| | * 9bf661c (origin/Fernando-Ramirez) agregados casos y el reporte
+| |/  
+| | * d3899aa (origin/Fabian_Yrala) Tarea de Reporte Casos de Prueba
+| | * eb55eeb Commint Tarea 13/11/23
+| |/  
+| | * d267109 (origin/alejandro_bermudez) primeros5
+| | * 3d51f28 excelpositivo
+| | * af355bb carpeta
+| |/  
+|/|   
+| | * 2dee70d (origin/rolando_medina) commit reportes pdf y excel informe
+| | * 7639cd7 commit PDF de casos NEGATIVOS
+| | * e69c21b commit de casos NEGATIVOS
+| | * 67de8a0 primer commit de casos positivos
+| |/  
+| | * 3b6c297 (origin/jose-comba) tercer commit de un caso de pruebas
+| | * 1493a99 segundo commit de un caso de pruebas
+| | * 286fe1c primer commit de un caso de prueba
+| |/  
+|/|   
+| | * 7777c79 (origin/carlos_lazovich) casos que faltaron + reporte de resultados
+| | * e1228de casos de prueba negativo y positivo
+| |/  
+|/|   
+| | * 854b755 (origin/Mauro_Gonzalez) Primer commit de mi caso de prueba.
+| |/  
+|/|   
+| | * 34cde51 (origin/jessica-monzon) primer commit de mi caso de prueba
+| |/  
+| | * 4e873ce (origin/Jose_Gimenez) modifique planilla
+| | * 08ac113 primer commit de mi caso de prueba
+| |/  
+| * 5df05d1 (origin/david_vargas, origin/Abba-Eduardo) Create camilav
+|/  
+| * 100deca (origin/sebastian_gomez) primer commit de mi caso de prueba
+|/  
+| * fffdf31 (origin/silvia_llanes) se agrega archivo con tc
+|/  
+| * 53e743b (origin/testing_miguel) Update README2.1.md
+| * 3383c7c Update README2.md
+| * 546f7dc Delete sign on sin datos test.png
+| * 49b24d3 imagenes demoblaze
+| * 1b4195b Update README.md
+| * 3db59ee Update README.md
+| * ab18f72 Update README.md
+| * 9de55d6 Create README.md
+| * 68c87f7 test_case_demoblaze1
+| * 735e411 test_case_demoblaze
+| *   dc9b236 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into testing_miguel
+| |\  
+| * \   e6052f9 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into testing_miguel
+| |\ \  
+| | | | * b3d12d9 (origin/mitest_marcos) trabajo final
+| | | | *   d03de44 (origin/testing) Merge pull request #51 from Tusuegra510/Gonzalo_Fernandez
+| | | | |\  
+| | | | | * c612fd6 (origin/Gonzalo_Fernandez) Trabajo Final Casos
+| | | | | * 7ff9c94 Trabajo Final Reporte
+| | | | |/  
+| | | | * e9bdeeb Add files via upload
+| | | | *   c1f1c45 Merge pull request #49 from Tusuegra510/mitest_marcos
+| | | | |\  
+| | | | | * 1c66dcd creo carpeta tp final
+| | | | |/  
+| | | | *   9c84114 Merge pull request #48 from Tusuegra510/Testing-Nahuel
+| | | | |\  
+| | | | | * f03820c (origin/Testing-Nahuel) commit inicial
+| | | | |/  
+| | | | *   122d46a Merge pull request #47 from Tusuegra510/fns275_testing
+| | | | |\  
+| | | | | * 4ea14de (origin/fns275_testing) actualizar repo
+| | | | * |   195a772 Merge pull request #46 from Tusuegra510/TestingAntoLV
+| | | | |\ \  
+| | | | | * | 8e8a59c (origin/TestingAntoLV) Add New Update 2
+| | | | * | |   692f80f (origin/pao) Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into testing
+| | | | |\ \ \  
+| | | | | * \ \   40a7eba Merge pull request #45 from Tusuegra510/manuelitamar-patch-1
+| | | | | |\ \ \  
+| | | | | | * | | 71c7d7f (origin/manuelitamar-patch-1) Create manuelitamar
+| | | | | * | | | 0d27ddc Subo segundo listado de testing
+| | | | | | |/ /  
+| | | | | |/| |   
+| | | | | * | |   e1a02e3 Merge pull request #44 from Tusuegra510/ferclemens
+| | | | | |\ \ \  
+| | | | | | * \ \   3e5217f (origin/ferclemens) add work
+| | | | | | |\ \ \  
+| | | | | | |/ / /  
+| | | | | |/| | |   
+| | | | * | | | | a45204c Reporte
+| | | | | | | | | * 85c923f (origin/josepauluk) Culminado caso de prueva Vea
+| |_|_|_|_|_|_|_|/  
+|/| | | | | | | |   
+| | | | | | | | | * fc6c22a (origin/gustest) Primer commit sin nada
+| | | | | | |_|_|/  
+| | | | | |/| | |   
+| | | | | * | | |   154ff4d Merge pull request #40 from Tusuegra510/manuelitamar
+| | | | | |\ \ \ \  
+| | | | | | * | | | 1833947 (origin/manuelitamar) Delete alumnos/Paola_Villarreal directory
+| | | | | * | | | | 82ad8f5 Subí un informe del item inspeccionar de página Vea
+| | | | | | | | | | * 89f3384 (origin/revert-41-ferclemens) Revert "se agrega la rama ferclemens con los trabajos de clases"
+| |_|_|_|_|_|_|_|_|/  
+|/| | | | | | | | |   
+* | | | | | | | | |   7d69b42 (origin/federico_durnbeck, origin/cjromano, origin/camilav, origin/Branch_LauSeg) Merge pull request #41 from Tusuegra510/ferclemens
+|\ \ \ \ \ \ \ \ \ \  
+| | |_|_|_|_|_|/ / /  
+| |/| | | | | | | |   
+| * | | | | | | | | 5879b68 se agrega la rama ferclemens con los trabajos de clases
+|/ / / / / / / / /  
+* | | | | | | | | c4d3ce1 carpeta
+* | | | | | | | | e1dcaea error
+* | | | | | | | | faf3c3b Add files via upload
+* | | | | | | | | 5b21d4e Delete README.md
+* | | | | | | | | 1326d77 Create README.md
+* | | | | | | | |   86bae20 Merge pull request #24 from Tusuegra510/revert-23-manuelitamar-patch-3
+|\ \ \ \ \ \ \ \ \  
+| * | | | | | | | | 429ecdc (origin/revert-23-manuelitamar-patch-3) Revert "Agregué"
+* | | | | | | | | | 9722399 Mi reporte
+* | | | | | | | | |   042a67d Merge pull request #25 from Tusuegra510/testing
+|\ \ \ \ \ \ \ \ \ \  
+| |/ / / / / / / / /  
+|/| | | | | | | | |   
+* | | | | | | | | | c9d30f4 Delete alumnos/Paola_Villarreal directory
+* | | | | | | | | |   c584aa4 Merge pull request #23 from Tusuegra510/manuelitamar-patch-3
+|\ \ \ \ \ \ \ \ \ \  
+| * | | | | | | | | | c48a3f1 (origin/manuelitamar-patch-3) Agregué
+|/ / / / / / / / / /  
+* | | | | | | | | |   3aebc11 Merge pull request #22 from Tusuegra510/RosanaBB
+|\ \ \ \ \ \ \ \ \ \  
+| |_|_|_|_|_|_|/ / /  
+|/| | | | | | | | |   
+| | | | | | | | | | * 858ca0c (origin/Luque-Florencia) primer commit
+| | | | | | | | |_|/  
+| | | | | | | |/| |   
+| | | | | | | * | | e7e9a0e Corregí el nombre y descripción del caso de prueba 3
+| | | | | | | * | | 6da7e75 Hice cambios en el primer caso de prueba
+| | | | | | | * | | 5ac3def Test Mercado Libre
+| | | | | | | * | |   e21409e Merge pull request #39 from Tusuegra510/testing-Andres
+| | | | | | | |\ \ \  
+| | | | | | | | * | | 3af4b07 (origin/testing-Andres) Reporte en pdf de errores
+| | | | | | | * | | |   7abab1d Merge pull request #38 from Tusuegra510/TestingAntoLV
+| | | | | | | |\ \ \ \  
+| | | | | | | | * | | | 37033e7 Add Files New Project
+| | | | | | | | * | | | ad741f7 Files add 2
+| | | | | | | | * | | | 563ad6c add
+| | | | | | | | * | | | 58e7c04 Files changes
+| | | | | | | | * | | | 8f2498e add files 4
+| | | | | | | | * | | | dfbe2b8 Add Files 2
+| | | | | | | | * | | | 2ce14f9 Add Files
+| | | | | | |_|/ / / /  
+| | | | | |/| | | | |   
+| | | | | | | * | | |   d05e10a Merge pull request #37 from Tusuegra510/fns275_testing
+| | | | | | | |\ \ \ \  
+| | | | | | | | | |_|/  
+| | | | | | | | |/| |   
+| | | | | | | | * | | fd5617d Add files via upload
+| | | | | | | * | | |   dca8655 Merge pull request #35 from Tusuegra510/mitest_marcos
+| | | | | | | |\ \ \ \  
+| | | | | | | | * | | | 14a51ca carga de archivos
+| | | | | | | | * | | |   adebb79 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into mitest_marcos
+| | | | | | | | |\ \ \ \  
+| | | | | | | | |/ / / /  
+| | | | | | | |/| | | |   
+| | | | | | | | * | | | cd02836 agrego templates en excel
+| | | |_|_|_|_|/ / / /  
+| | |/| | | | | | | |   
+| | | | | | | | | | | * bdd7aaf (origin/mitest_stocchero) probando el commit
+| | | | | | | | |_|_|/  
+| | | | | | | |/| | |   
+| | | | | | | * | | | 14df135 Corrijo el párrafo final del informe del test case
+| | | | | | | * | | | aaa60fa Subí el Test Case
+| | | | | | | * | | |   4750dcb Merge pull request #33 from Tusuegra510/Gonzalo_Fernandez
+| | | | | | | |\ \ \ \  
+| | | | | | | | * | | | 1ac7eb1 Actualizamos el nombre del archivo
+| | | | | | | * | | | |   f0feba1 Merge pull request #32 from Tusuegra510/testing-Andres
+| | | | | | | |\ \ \ \ \  
+| | | | | | | | | |_|/ /  
+| | | | | | | | |/| | |   
+| | | | | | | | * | | | 68f3a5b Informe casos de prueba vea.com
+| | | | | | | | * | | | ce718b1 pruba de carpeta
+| | | | | | | | * | | | bea39a1 primera versión
+| | | | | | | | * | | | c4ab67d archivo de prueba
+| | | | | | | * | | | |   0429541 Merge pull request #31 from Tusuegra510/pabloroces
+| | | | | | | |\ \ \ \ \  
+| | | | | | | | * | | | | 7a6126f (origin/pabloroces) Documentacion Test
+| | | | | | | * | | | | |   685d7da Merge pull request #30 from Tusuegra510/Gonzalo_Fernandez
+| | | | | | | |\ \ \ \ \ \  
+| | | | | | | | | |_|/ / /  
+| | | | | | | | |/| | | |   
+| | | | | | | | * | | | | 05461a5 Agregamos los 10 casos de pruebas tanto positivo como negativos
+| | | | | | | |/ / / / /  
+| | | | | | | * | | | | c7b6a6d Add files via upload
+| | | | | | | * | | | | 5a4bd89 Reporte de pruebas
+| | | | | | |/ / / / /  
+| | | | | | * | | | |   5d43053 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into testing
+| | | | | | |\ \ \ \ \  
+| | | | | | | * \ \ \ \   07fdbdf Merge pull request #29 from Tusuegra510/fns275_testing
+| | | | | | | |\ \ \ \ \  
+| | | | | | | | | |_|/ /  
+| | | | | | | | |/| | |   
+| | | | | | | | * | | | 94f7c57 Add files via upload
+| | | | | | | | | |/ /  
+| | | | | | | | |/| |   
+| | | | | | | * | | | d531ce7 Add files via upload
+| | | | | | | * | | |   f60ae52 Merge pull request #28 from Tusuegra510/test-nicom700
+| | | | | | | |\ \ \ \  
+| | | | | | | | * | | | b6cb025 (origin/test-nicom700) feat: se agrega reporte de errores de la pagina guru
+| | | | | | | |/ / / /  
+| | | | | | * / / / / 46974cb test case twitch
+| | | | | | |/ / / /  
+| | | | | | * | | | 68795aa AnalisisGuru_Parte3
+| | | | | | * | | | 697f172 parte 2 test case Guru
+| | | | | | * | | | 6c46f9d Merge pull request #26 from Tusuegra510/PaoVVR_Branch_new
+| | | |_|_|/| | | | 
+| | |/| | | | | | | 
+| | | | | | * | | | d1c8695 (origin/PaoVVR_Branch_new) Add files via upload
+| | | |_|_|/ / / /  
+| | |/| | | | | |   
+| | * | | | | | | 04f5ee6 Casos de prueba
+| | * | | | | | | 8834a2b Casos de pruebas
+| | | |_|_|_|/ /  
+| | |/| | | | |   
+| | * | | | | |   b5aed3f Merge pull request #21 from Tusuegra510/pabloroces
+| | |\ \ \ \ \ \  
+| | | * | | | | | ffd2fec Primer cambio
+| | * | | | | | |   472fb55 Merge pull request #20 from Tusuegra510/RosanaBB
+| | |\ \ \ \ \ \ \  
+| | | |/ / / / / /  
+| | |/| | | | | |   
+| | | | | | | | | * 0086f0f (origin/RosanaBB) Documentacion-Vea
+| | |_|_|_|_|_|_|/  
+| |/| | | | | | |   
+| * | | | | | | | 25cb62d caso de prueba
+| | |/ / / / / /  
+| |/| | | | | |   
+| * | | | | | | 0680394 Mireporte
+| |/ / / / / /  
+| * | | | | |   4a7ac2d Merge pull request #18 from Tusuegra510/manuelitamar-patch-2
+| |\ \ \ \ \ \  
+| | |_|_|_|_|/  
+| |/| | | | |   
+| | * | | | | b9d4357 (origin/manuelitamar-patch-2) Add files via upload
+| |/ / / / /  
+| * | | | | 768ffdc Agregue una carpeta con mi nombre
+| * | | | |   b7c15d4 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into testing
+| |\ \ \ \ \  
+| | * \ \ \ \   8439cbd Merge pull request #13 from Tusuegra510/testing_PaolaAA
+| | |\ \ \ \ \  
+| | | * | | | | 27e7bbe (origin/testing_PaolaAA) añado reporte y archivos de evidencia
+| | | | |_|_|/  
+| | | |/| | |   
+| | * | | | |   faa55cb Merge pull request #14 from Tusuegra510/mitest_leo
+| | |\ \ \ \ \  
+| | | * | | | | 077e116 (origin/mitest_leo) Borre archivos de prueba iniciales
+| | | * | | | | a84c5ca Embelleci el principio del readme watermark
+| | | * | | | | ddfefde Corregido pequeño error explicación cuanto me llevo navegando
+| | | * | | | | c88fa1f Termine los reporte de errores
+| | | * | | | | 8009866 nuevos cambios
+| | | * | | | | 75b303b hago una prueba de commit
+| | | |/ / / /  
+| | * | | | |   4b9d522 Merge pull request #15 from Tusuegra510/ferclemens
+| | |\ \ \ \ \  
+| | | * | | | | ecf1f36 :pushpin: add branch y reporte de errores
+| | | * | | | | a0733d8 :pushpin: reporte de errores AcademyBugs.com
+| | | |/ / / /  
+| | * | | | | 2618ac5 Add files via upload
+| | * | | | |   5bf06bb Merge pull request #12 from Tusuegra510/ramadeprueba
+| | |\ \ \ \ \  
+| | | * | | | | d4449be (origin/ramadeprueba) Encontrando bug 7 diseño responsivo no se adapta
+| | | * | | | |   b8a17ed a
+| | | |\ \ \ \ \  
+| | | | * | | | | 587c1d0 Encontrado eror 4 y 4 error de registro y mail
+| | | | | |_|/ /  
+| | | | |/| | |   
+| | | * | | | |   d51389b Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into ramadeprueba
+| | | |\ \ \ \ \  
+| | | |/ / / / /  
+| | |/| | | | |   
+| | * | | | | |   42c7786 Merge pull request #11 from Tusuegra510/mitest_marcos
+| | |\ \ \ \ \ \  
+| | | |_|_|_|_|/  
+| | |/| | | | |   
+| | | * | | | | eda6e52 creacion de carpeta marcosg91
+| | | * | | | | 2300912 eliminacion de archivo .txt
+| | | * | | | | a62f050 carga de archivo .pdf
+| | | * | | | | 5447d2d carga de reporte de errores
+| | | | |_|/ /  
+| | | |/| | |   
+| | * | | | |   594be42 Merge pull request #7 from Tusuegra510/testing_miguel
+| | |\ \ \ \ \  
+| | | |_|_|/ /  
+| | |/| | | /   
+| | | | |_|/    
+| | | |/| |     
+| | | * | | 4e45b5a test mercury tours
+| | | |/ /  
+| | | | * 3b3b3ae Encontrando bug 6 no hay vuelos disponibles
+| | | | * 938afe3 Encontrado eror 4 y 5 error de registro y mail
+| | | |/  
+| | |/|   
+| * | | 8b124f5 agregue mi carpeta con mi nombre
+| | |/  
+| |/|   
+| | | * 71dbfc0 (origin/lima_santiago) reporte de errores guru99
+| | | * a218a5e primer commit rama lima_santiago
+| | |/  
+| |/|   
+| | | * e149e7c (origin/test-NicoM) se actualiza docx test-NicoM
+| | | *   fa70e31 Merge branch 'testing' of https://github.com/Tusuegra510/reporte-de-errores-informatorio into test-NicoM
+| | | |\  
+| | | |/  
+| | |/|   
+| | * |   f9ba0e3 (origin/gonza_fernandez) Merge pull request #10 from Tusuegra510/gonza_fernandez
+| | |\ \  
+| | | * | d9760b9 modifique de lugar el archivo a la carpeta alumnos
+| | * | |   955ddc2 Merge pull request #9 from Tusuegra510/ramadeprueba
+| | |\ \ \  
+| | | * | | 21ed9bf Agregando tercer bug
+| | | * | | 0bcf43b Agregando segundo bug
+| | | * | | d69e86e Agregando primer bug
+| | |/ / /  
+| |/| | |   
+| | * | |   2c57d10 (origin/Mitest_Abelo) Merge pull request #8 from Tusuegra510/PaoVVR-MiTrabajo
+| | |\ \ \  
+| | * | | | 212f893 Add files via upload
+| | * | | |   61c6750 Merge pull request #6 from Tusuegra510/gonza_fernandez
+| | |\ \ \ \  
+| | | | |/ /  
+| | | |/| |   
+| | | * | | c986d9c primer error
+| | |/ / /  
+| |/| | |   
+| | | | * 81944a6 Se crea carpeta y se sube archi docs con el primer error
+| | |_|/  
+| |/| |   
+| | | | * 666cac7 (origin/JSarasua) Delete alumnos/Paola_Villarreal directory
+| |_|_|/  
+|/| | |   
+* | | | 061c0e3 Add files via upload
+* | | |   8df06e8 Merge pull request #3 from Tusuegra510/PaoVVR-MiTrabajo
+|\ \ \ \  
+| | |_|/  
+| |/| |   
+| * | | f50b14d (origin/PaoVVR-MiTrabajo) Creación de nueva rama y entrega.
+|/ / /  
+* | | ec6dec7 deleted Prueba_RosanaBB.txt
+* | |   4b409d4 Merge pull request #1 from Tusuegra510/RosanaBB
+|\ \ \  
+| * | | 7956834 Mi aporte Rosana B
+| |/ /  
+| | | * 830b8d2 (origin/lima_santi) primer_commit
+| | |/  
+| | * 421105d (origin/mitest_Ricardo, origin/gabriel_o) Merge pull request #5 from Tusuegra510/TestingAntoLV
+| |/| 
+| | * 71f4036 Add Files Project
+| | * 4f6698d Upgrade
+| | * d4121d1 Upgrade folder
+| | * 62689b5 Add Files
+| |/  
+| | * 847ac76 (origin/mitest_Edu) Cambio a formato pdf
+| | * 291ab4f Primer commit
+| |/  
+| * a5fa620 (origin/Manuel_branch) update folder alumnos
+|/  
+| * 16d8c89 (origin/leo_branch) Envio del trabajo de testing
+|/  
+* 6464705 (origin/mitest_Paola, origin/ejercicio-errores, origin/Rama_Lucas) update readme
+* 86d1d1c load img in readme
+* 9b4fb55 added img
+* 8f284f4 prueba
+* a012432 added img folder
+* 0fca55f Delete sentra.png
+* 7b1270a Create sentra.png
+* 1d5fb6d Add files via upload
+* db9ee08 Delete img
+* 0ba82b1 Create img
+* 7e0b8cc Update README.md
+* 5d08296 Update README.md
+* 2bc9aaf Initial commit
